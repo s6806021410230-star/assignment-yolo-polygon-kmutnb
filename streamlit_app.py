@@ -4,8 +4,8 @@ import numpy as np
 from PIL import Image
 from ultralytics import YOLO
 
-st.title("🎯 YOLO Polygon Segmentation WebApp")
-st.write("รายวิชา DIP (อ.นพเก้า ทองใบ) — นางสาวสุภักษร สุบินนาม (6806021410230)")
+st.title("YOLO Polygon Segmentation WebApp")
+st.write("รายวิชา DIP — นางสาวสุภักษร สุบินนาม (6806021410230)")
 
 # โหลดโมเดล
 @st.cache_resource
