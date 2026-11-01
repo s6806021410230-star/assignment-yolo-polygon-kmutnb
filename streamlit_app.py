@@ -37,11 +37,10 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # แบนเนอร์หัวเรื่องและข้อมูลนักศึกษา
-st.markdown('<div class="main-title">🎯 YOLO Polygon Segmentation WebApp</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">YOLO Polygon Segmentation WebApp</div>', unsafe_allow_html=True)
 st.markdown("""
 <div class="sub-title">
-    โครงงานวิชา <b>060223218 Digital Image Processing (DIP S1 A-132)</b> — อาจารย์นพเก้า ทองใบ<br>
-    <span class="student-badge">👩‍🎓 นางสาวสุภักษร สุบินนาม | รหัส: 6806021410230 | ที่นั่งสอบ: 17</span>
+    <span class="student-badge">นางสาวสุภักษร สุบินนาม | รหัส: 6806021410230</span>
 </div>
 """, unsafe_allow_html=True)
 
